@@ -1,0 +1,2 @@
+メールサーバ使ってる？
+Are you using a mail server?
